@@ -2,7 +2,6 @@
 title: Script Bot WA Free 2024
 published: 2024-04-18
 description: "script bot wa"
-image: "./cover.jpeg"
 tags: ["Tutorial", "Blogging", "Customization"]
 category: Script
 draft: false
