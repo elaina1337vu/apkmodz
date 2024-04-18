@@ -23,10 +23,6 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  output: 'server',
-  adapter: vercel({
-    webAnalytics: { enabled: true }
-        }),
   site: "https://apkmodzx.vercel.app/",
   base: "/",
   integrations: [
